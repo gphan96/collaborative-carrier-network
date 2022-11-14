@@ -23,24 +23,6 @@ every participant in the network. In addition, carriers incur much lower costs t
 - An auction-based solution is used to support privacy of agents
 - A graphical use interface is available to support the analytical view of solutions
 
-## Download
-
-Before starting the application, please make sure you have [OpenJDK](https://adoptium.net/temurin/releases)
-(Version: 11.0.14 or later) installed on your computer. 
-
-Open the [repository](https://ccn.jfrog.io/ui/native/ccn-generic-local/) of the application. Download the file _CCN.jar_. 
-After download is completed, right-click on the file, choose _Open with_ then choose 
-_OpenJDK Platform binary_ to run the application.
-
-If a login screen appears when accessing the repository or the download link, use the following credentials to log in:
-```
-Username: ccn-group4
-Password: CCN-tuhh-group4
-```
-
-> <b>Note</b>: Since we use a free 30-day-trial for the cloud repository, please download the file before the 8<sup>th</sup>
-of August. After that, the repository is not available any more.
-
 ## Logs
 When starting the application, logs are documented in the log file created for the current date. Log files are located
 in the directory _logs_ and their names indicate which date are the logs referring to. The directory _logs_ is located in
